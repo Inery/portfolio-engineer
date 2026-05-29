@@ -100,7 +100,7 @@ const projects = [
     description:
       "Site institucional para atendimento em psicologia, com foco em presença digital, apresentação de serviços e canal de contato.",
     stack: ["Python", "Flask", "HTML", "CSS", "Vercel"],
-    link: "https://site-psicologia-nayara.vercel.app",
+    link: "https://www.psicologanayararocha.com.br/",
   },
 ];
 
