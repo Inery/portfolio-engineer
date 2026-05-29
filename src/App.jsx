@@ -95,6 +95,13 @@ const projects = [
     stack: ["React", "FastAPI", "Supabase", "PostgreSQL", "WebSockets"],
     link: "https://correfood.com/",
   },
+  {
+    name: "Site Psicologia Nayara",
+    description:
+      "Site institucional para atendimento em psicologia, com foco em presença digital, apresentação de serviços e canal de contato.",
+    stack: ["Python", "Flask", "HTML", "CSS", "Vercel"],
+    link: "https://site-psicologia-nayara.vercel.app",
+  },
 ];
 
 const trainings = [
